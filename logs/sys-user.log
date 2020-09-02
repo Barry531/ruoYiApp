@@ -1,0 +1,5 @@
+09:26:32.854 [schedule-pool-1] INFO  sys-user - [run,54] - [127.0.0.1]内网IP[barry][Success][登录成功]
+09:43:41.775 [Thread-18] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+09:43:58.575 [Thread-44] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+09:44:50.622 [schedule-pool-1] INFO  sys-user - [run,54] - [127.0.0.1]内网IP[barry][Logout][退出成功]
+09:44:58.768 [schedule-pool-1] INFO  sys-user - [run,54] - [127.0.0.1]内网IP[barry][Success][登录成功]
